@@ -1,2 +1,2 @@
 # water_reminder
-Creates an annoying popup to remind me to drink water
+Creates an annoying popup to remind me to drink water. Created for Windows
